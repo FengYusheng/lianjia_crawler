@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-
-import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib as mpl
 import csv
 
 csv_path = 'lianjia2.csv'
